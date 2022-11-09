@@ -57,7 +57,6 @@ export default function UserListedMovies() {
 }
 
 const Container = styled.div`
-  background: radial-gradient(ellipse at center, #475963 0%, #0B0F12 100%); 
   .content {
     padding: 3rem 5rem;
     margin-top: 8rem;
