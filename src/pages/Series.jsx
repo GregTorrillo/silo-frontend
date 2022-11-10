@@ -66,6 +66,7 @@ function Series() {
 }
 
 const Container = styled.div`
+  background: radial-gradient(ellipse at center, #475963 0%, #0B0F12 100%);
   .data {
     margin-top: 8rem;
     padding-top: 3rem;
